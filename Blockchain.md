@@ -62,3 +62,12 @@ Alright, let’s dive into the [foundations of blockchain](https://www.coursera.
 - [Web3.js](https://web3js.readthedocs.io/en/v1.10.0/)
 - [Ethers](https://docs.ethers.org/v5/)
 
+## 7. Solana Blockchain Resources
+- [Solana Docs](https://solana.com/de/docs)
+- [Anchor Docs](https://www.anchor-lang.com/docs)
+- [Solana Wallet Adapter](https://github.com/anza-xyz/wallet-adapter?tab=readme-ov-file)
+- [Solana Bootcamp - 1](https://www.youtube.com/watch?v=amAq-WHAFs8)
+- [Solana Bootcamp - 2](https://www.youtube.com/watch?v=HOdYZSe1uhE)
+- [Solana Explorer](https://explorer.solana.com/)
+- [Blogs](https://www.helius.dev/blog)
+- [Solana Handbook](https://ackee.xyz/solana/book/latest/)
